@@ -1,0 +1,16 @@
+{
+    "project_name": "Subyellort",
+    "origin": "The primary repo for Subyellort goes here: i.e. http://www.mydomain.com",
+    "license": "What license Subyellort uses goes here: i.e. https://opensource.org/licenses/MIT",
+    "display_name": "Subyellort",
+    "summary": "A short description of Subyellort.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "Subyellort"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de-install",
+    "external_subdirectories": []
+}
